@@ -20,3 +20,5 @@ npm run dev
 
 The terminal will display a local URL (usually http://localhost:5173).
 Open this link in your web browser to interact with the app.
+
+You have the description of each project in the metadata.json file.
